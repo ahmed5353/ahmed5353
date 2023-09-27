@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ahmed5353/ahmed5353/master/name.svg" alt="Ahmed Nagy" />
 </h1>
