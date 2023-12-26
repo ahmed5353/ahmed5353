@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://raw.githubusercontent.com/ahmed5353/ahmed5353/master/name.svg" alt="Ahmed Nagy" />
-</h1>
+</h1>-->
 
 
 <!--<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">-->
