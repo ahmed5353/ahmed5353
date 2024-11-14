@@ -27,7 +27,7 @@
 <a href="https://t.me/ahmednagy53" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Nagy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -36,11 +36,10 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=reactrouter)&nbsp;
-![ReactRouter](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery)&nbsp;
+![ReactQuery](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery)&nbsp;
 
 
 
